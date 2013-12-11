@@ -1,0 +1,10 @@
+D:\git\private\MyFirstMongo\MyFirstMongoConsole\bin\Debug\MyFirstMongoConsole.exe.config
+D:\git\private\MyFirstMongo\MyFirstMongoConsole\obj\Debug\MyFirstMongoConsole.csprojResolveAssemblyReference.cache
+D:\git\private\MyFirstMongo\MyFirstMongoConsole\bin\Debug\MyFirstMongoConsole.exe
+D:\git\private\MyFirstMongo\MyFirstMongoConsole\bin\Debug\MyFirstMongoConsole.pdb
+D:\git\private\MyFirstMongo\MyFirstMongoConsole\bin\Debug\MongoDB.Bson.dll
+D:\git\private\MyFirstMongo\MyFirstMongoConsole\bin\Debug\MongoDB.Driver.dll
+D:\git\private\MyFirstMongo\MyFirstMongoConsole\bin\Debug\MongoDB.Bson.xml
+D:\git\private\MyFirstMongo\MyFirstMongoConsole\bin\Debug\MongoDB.Driver.xml
+D:\git\private\MyFirstMongo\MyFirstMongoConsole\obj\Debug\MyFirstMongoConsole.exe
+D:\git\private\MyFirstMongo\MyFirstMongoConsole\obj\Debug\MyFirstMongoConsole.pdb
